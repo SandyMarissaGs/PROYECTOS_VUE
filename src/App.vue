@@ -94,7 +94,7 @@ import { RouterView } from 'vue-router';
                                 <a class="dropdown-item" href="#"> <router-link to="/Replica">Replica</router-link>
                                 </a>
                             </ul>
-                        </div>Z
+                        </div>
 
                     </div>
                 </div>
